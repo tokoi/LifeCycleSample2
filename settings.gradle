@@ -1,0 +1,2 @@
+rootProject.name='LifeCycleSample2'
+include ':app'
